@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doctormiweb.github.io/doctormi.github.io/sitemap-index.xml
