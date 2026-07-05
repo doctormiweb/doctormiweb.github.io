@@ -1,0 +1,46 @@
+# DoctorMi (Extended LLM Context)
+
+This file provides additional context for language models.
+
+DoctorMi is a secure, private communication channel designed for brief, non-urgent clinical queries between doctors and their patients. It provides structured asynchronous messaging, patient medical profile summary, and configurable subscription plans to prevent doctors from answering queries over insecure networks like personal WhatsApp or SMS.
+
+Primary audience: doctors, medical centers, clinics, patients, and health managers.
+
+Languages:
+- Català: `/ca/`
+- Español: `/es/` (provisional)
+
+## Product features
+
+- Asynchronous messaging: Structured queries with text, image, and scanned medications.
+- Medical profile: Basic patient profile containing current treatments, allergies, and background context.
+- Subscription models: Configurable plans by the doctor, including pay-per-query, monthly subscriptions, or free access by invitation.
+- Privacy & security: Complies with security guidelines for patient data storage, secure authentication, and access audits.
+
+## Key website pages
+
+- Catalan Home: `/ca/`
+- For doctors: `/ca/per-a-metges/`
+- For patients: `/ca/per-a-pacients/`
+- How it works: `/ca/com-funciona/`
+- Security: `/ca/seguretat/`
+- Evidence: `/ca/evidencia/`
+- Plans: `/ca/plans/`
+- Contact: `/ca/contacte/`
+
+## Emergency notice
+
+DoctorMi is strictly for non-urgent communication. It does not replace emergency clinical services. In case of emergency, users should call 112 or visit the nearest hospital.
+
+## Evidence approach
+
+DoctorMi cites clinical research highlighting that structured asynchronous communication between doctor and patient improves follow-up, patient satisfaction, and doctor work-life balance, while minimizing medico-legal risks associated with unofficial channels (like WhatsApp).
+
+Key clinical references:
+- Patient-provider messaging review (Journal of Medical Internet Research, JMIR): https://www.jmir.org/
+- Asynchronous communication in primary care (Cochrane Library): https://www.cochranelibrary.com/
+- Web Content Accessibility Guidelines (WCAG): https://www.w3.org/WAI/standards-guidelines/wcag/
+
+## Contact
+
+Email: doctormi@onmedic.org

@@ -1,0 +1,28 @@
+# DoctorMi
+
+DoctorMi is a secure, private communication channel designed for brief, non-urgent clinical queries between doctors and their patients. It provides structured asynchronous messaging, patient medical profile summary, and configurable subscription plans to prevent doctors from answering queries over insecure networks like personal WhatsApp or SMS.
+
+Languages: Català (default, `/ca/`), Español (`/es/` - provisional).
+
+## Key pages
+
+- Catalan Home: `/ca/`
+- For doctors: `/ca/per-a-metges/`
+- For patients: `/ca/per-a-pacients/`
+- How it works: `/ca/com-funciona/`
+- Security: `/ca/seguretat/`
+- Evidence: `/ca/evidencia/`
+- Plans: `/ca/plans/`
+- Contact: `/ca/contacte/`
+
+## App links
+
+- Public repository: https://github.com/doctormiweb/doctormiweb.github.io
+
+## Extended context
+
+- `/llms-full.txt` provides a longer description of DoctorMi, its key clinical features, security compliance, and research evidence.
+
+## Medical disclaimer
+
+DoctorMi is a communication channel. It is for non-urgent clinical queries. In case of a medical emergency, patients must contact local emergency services immediately.
