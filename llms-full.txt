@@ -1,5 +1,8 @@
 # DoctorMi (Extended LLM Context)
 
+Canonical site: https://doctormiweb.github.io/
+Last updated: 2026-07-12
+
 This file provides additional context for language models.
 
 DoctorMi is a secure, private communication channel designed for brief, non-urgent clinical queries between doctors and their patients. It provides structured asynchronous messaging, patient medical profile summary, and configurable subscription plans to prevent doctors from answering queries over insecure networks like personal WhatsApp or SMS.

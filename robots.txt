@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://doctormiweb.github.io/sitemap-index.xml
+
+# AI-readable site overview: https://doctormiweb.github.io/llms.txt
