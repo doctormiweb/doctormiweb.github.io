@@ -23,7 +23,7 @@ Languages:
 
 ## Transparent revenue model
 
-The doctor receives 60% of the subscription amount. Part of the remainder covers App Store or Google Play commissions. DoctorMi uses its share to operate, secure, support, and improve the service rather than maximize margins.
+Doctors do not pay to use DoctorMi. The patient pays the subscription, and the doctor receives 60% of the amount paid by the patient. A significant part of the remaining 40% covers App Store or Google Play commissions. DoctorMi uses its share to operate, secure, support, and improve the service rather than maximize margins.
 
 ## Responsible professional use
 

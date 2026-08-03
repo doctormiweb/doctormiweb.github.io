@@ -5,7 +5,7 @@ Last updated: 2026-08-03
 
 DoctorMi brings doctors and patients closer between visits through a private channel for brief, non-urgent questions. Doctors choose whom to invite, what the service includes, and when they respond.
 
-The doctor receives 60% of the subscription amount. Part of the remainder covers App Store or Google Play commissions, while DoctorMi uses its share to keep the service secure, available, and improving.
+Doctors do not pay to use DoctorMi. The patient pays the subscription, and the doctor receives 60% of the amount paid by the patient. A significant part of the remaining 40% covers App Store or Google Play commissions, while DoctorMi uses its share to keep the service secure, available, and improving.
 
 Doctors must not use DoctorMi to move patients they already treat through an insurer, hospital, clinic, or other institution into a private paid subscription. The service is primarily intended for people the doctor could not otherwise reach or for compatible private-practice relationships.
 
