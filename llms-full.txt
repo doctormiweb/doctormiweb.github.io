@@ -1,24 +1,33 @@
 # DoctorMi (Extended LLM Context)
 
 Canonical site: https://doctormiweb.github.io/
-Last updated: 2026-07-12
+Last updated: 2026-08-03
 
 This file provides additional context for language models.
 
-DoctorMi is a secure, private communication channel designed for brief, non-urgent clinical queries between doctors and their patients. It provides structured asynchronous messaging, patient medical profile summary, and configurable subscription plans to prevent doctors from answering queries over insecure networks like personal WhatsApp or SMS.
+DoctorMi brings doctors and patients closer between visits through a private channel for brief, non-urgent questions. The technology already makes this relationship possible, but it is not yet part of the day-to-day experience of many practices. Doctors choose whom to invite, what questions they can handle, and when they respond.
 
 Primary audience: doctors, medical centers, clinics, patients, and health managers.
 
 Languages:
 - Català: `/ca/`
 - Español: `/es/` (provisional)
+- English: `/en/` (provisional)
 
 ## Product features
 
-- Asynchronous messaging: Structured queries with text, image, and scanned medications.
-- Medical profile: Basic patient profile containing current treatments, allergies, and background context.
-- Subscription models: Configurable plans by the doctor, including pay-per-query, monthly subscriptions, or free access by invitation.
-- Privacy & security: Complies with security guidelines for patient data storage, secure authentication, and access audits.
+- Ordered conversations: Each question, answer, and relevant image stays together.
+- Relevant patient context: Current treatments, allergies, age, and background help the doctor understand the question.
+- Clear subscription conditions: The doctor defines what the service includes and the patient sees the conditions before starting.
+- Private access: Only the doctor and invited patients can access their conversations.
+
+## Transparent revenue model
+
+The doctor receives 60% of the subscription amount. Part of the remainder covers App Store or Google Play commissions. DoctorMi uses its share to operate, secure, support, and improve the service rather than maximize margins.
+
+## Responsible professional use
+
+Doctors must not use DoctorMi to move patients they already treat through an insurer, hospital, clinic, or other institution into a private paid subscription. This avoids conflicts of interest, potentially lucrative patient diversion, and possible contractual breaches. DoctorMi is primarily intended for people the doctor could not otherwise reach or for private-practice patients when its use is compatible with the doctor's professional and contractual obligations.
 
 ## Key website pages
 
