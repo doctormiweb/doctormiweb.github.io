@@ -1,6 +1,6 @@
 # DoctorMi
 
-Canonical site: https://doctormiweb.github.io/
+Canonical site: https://doctormi.net/
 Last updated: 2026-08-03
 
 DoctorMi brings doctors and patients closer between visits through a private channel for brief, non-urgent questions. Doctors choose whom to invite, what the service includes, and when they respond.

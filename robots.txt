@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://doctormiweb.github.io/sitemap-index.xml
+Sitemap: https://doctormi.net/sitemap-index.xml
 
-# AI-readable site overview: https://doctormiweb.github.io/llms.txt
+# AI-readable site overview: https://doctormi.net/llms.txt
