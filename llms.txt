@@ -34,6 +34,11 @@ Languages: Català (default, `/ca/`), Español (`/es/`, complete), English (`/en
 - [Planes](https://doctormi.net/es/planes/)
 - [Contacto](https://doctormi.net/es/contacto/)
 
+## Explainer videos
+
+- [55-second explainer in Catalan](https://doctormi.net/videos/doctormi-video-ca.mp4) — embedded on https://doctormi.net/ca/#video, transcript on the page.
+- [Vídeo explicativo de 55 segundos en castellano](https://doctormi.net/videos/doctormi-video-es.mp4) — en https://doctormi.net/es/#video, con transcripción en la página.
+
 ## App links
 
 - App Store (iOS): https://apps.apple.com/app/doctormi/id6747891777
