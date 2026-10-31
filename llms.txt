@@ -10,7 +10,7 @@ Doctors do not pay to use DoctorMi. The patient pays the subscription, and the d
 
 Doctors must not use DoctorMi to move patients they already treat through an insurer, hospital, clinic, or other institution into a private paid subscription. The service is primarily intended for people the doctor could not otherwise reach or for compatible private-practice relationships.
 
-Languages: Català (default, `/ca/`), Español (`/es/` - provisional), English (`/en/` - provisional).
+Languages: Català (default, `/ca/`), Español (`/es/`, complete), English (`/en/` - in preparation; only the legal pages are translated).
 
 ## Key pages
 
@@ -22,6 +22,17 @@ Languages: Català (default, `/ca/`), Español (`/es/` - provisional), English (
 - [Evidence](https://doctormi.net/ca/evidencia/)
 - [Plans](https://doctormi.net/ca/plans/)
 - [Contact](https://doctormi.net/ca/contacte/)
+
+## Páginas en castellano
+
+- [Inicio](https://doctormi.net/es/)
+- [Para médicos](https://doctormi.net/es/para-medicos/)
+- [Para pacientes](https://doctormi.net/es/para-pacientes/)
+- [Cómo funciona](https://doctormi.net/es/como-funciona/)
+- [Seguridad](https://doctormi.net/es/seguridad/)
+- [Evidencia](https://doctormi.net/es/evidencia/)
+- [Planes](https://doctormi.net/es/planes/)
+- [Contacto](https://doctormi.net/es/contacto/)
 
 ## App links
 

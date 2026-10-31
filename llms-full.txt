@@ -11,8 +11,8 @@ Primary audience: doctors, medical centers, clinics, patients, and health manage
 
 Languages:
 - Català: `/ca/`
-- Español: `/es/` (provisional)
-- English: `/en/` (provisional)
+- Español: `/es/` (complete)
+- English: `/en/` (in preparation; only privacy and account deletion are translated)
 
 ## Product features
 
