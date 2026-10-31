@@ -1,7 +1,7 @@
 # DoctorMi (Extended LLM Context)
 
 Canonical site: https://doctormi.net/
-Last updated: 2026-08-03
+Last updated: 2026-10-31
 
 This file provides additional context for language models.
 
